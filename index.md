@@ -1,3 +1,5 @@
-# Welcome to my blog
+# NOT Add to the Registry
 
-I'm glad you are here. I plan to talk about ...
+You're in the right place to add your assets to the registry.
+
+We'll walk you through the process, or you can skip that and add it now.
